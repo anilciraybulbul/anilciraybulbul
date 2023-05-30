@@ -2,6 +2,7 @@
 
 My Toolbelt:
 
+[<img height="45" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 [<img height="45" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>](https://img.icons8.com/color/48/000000/visual-studio.png)
 [<img height="45" src="https://img.icons8.com/color/48/000000/net-framework.png"/>](https://img.icons8.com/color/48/000000/net-framework.png)
 [<img height="45" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
@@ -10,6 +11,10 @@ My Toolbelt:
 [<img height="45" src="https://img.icons8.com/color/48/000000/typescript.png"/>](https://icons8.com/icon/uJM6fQYqDaZK/typescript)
 [<img height="45" src="https://img.icons8.com/plasticine/100/26e07f/react.png"/>](https://icons8.com/icon/NfbyHexzVEDk/react)
 [<img src="https://img.icons8.com/color/48/000000/docker.png"/>](https://icons8.com/icon/22813/docker)
+
+[<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>](https://icons8.com/icon/22813/gitlab)
+[<img src="https://img.icons8.com/color/48/000000/bitbucket.png"/>](https://icons8.com/icon/22813/bitbucket)
+
 
 #Database;
 
