@@ -3,6 +3,9 @@
 My Toolbelt:
 
 [<img height="45" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>](https://img.icons8.com/color/48/000000/visual-studio.png)
+[<img height="45" src="https://img.icons8.com/color/48/000000/net-framework.png"/>](https://img.icons8.com/color/48/000000/net-framework.png)
+[<img height="45" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+
 [<img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://icons8.com/icon/108784/javascript)
 [<img height="45" src="https://img.icons8.com/color/48/000000/typescript.png"/>](https://icons8.com/icon/uJM6fQYqDaZK/typescript)
 [<img height="45" src="https://img.icons8.com/plasticine/100/26e07f/react.png"/>](https://icons8.com/icon/NfbyHexzVEDk/react)
